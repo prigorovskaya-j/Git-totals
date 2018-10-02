@@ -1,0 +1,3 @@
+Жили-были на свете три разработчика.
+И звали их: First Developer, Second Developer и Third Developer.
+  
